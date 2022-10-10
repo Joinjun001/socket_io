@@ -1,2 +1,2 @@
 noom
-clone coding using WEBRTS and WebSocket
+오류가 자꾸 나서 오류안나는 기본 mvc구조를 만들었다.
